@@ -80,11 +80,11 @@ function App() {
                         <Link to="/skills"><b>Skills</b></Link>
                   </li><br />
                   <li className="nav-item">
-                        <Link to="/interest"><b>Interest</b></Link>
+                        <Link to="/awards"><b>Awards</b></Link>
                   </li><br />
                   <li className="nav-item">
-                        <Link to="/awards"><b>Awards</b></Link>
-                  </li>
+                        <Link to="/interest"><b>Interest</b></Link>
+                  </li>  
               </ul>
           </div>
         </nav>
