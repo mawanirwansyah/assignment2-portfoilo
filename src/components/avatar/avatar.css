@@ -1,0 +1,36 @@
+.avatar{
+    width: 175px;
+    height: 175px;
+    margin: 10px;
+    border : 0.5rem solid rgba(255, 255, 255, 0.2);
+    border-radius: 100%;
+    object-fit: cover
+}
+
+.sosmed{
+    width: 100px;
+    height: auto;
+    cursor: pointer;
+}
+
+.profile{
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+}
+
+.hobby{
+    width: 120px;
+    height: 120px;
+}
+
+.sport{
+    width: 150px;
+    height: 150px;
+}
+
+
+.it{
+    width: 150px;
+    height: 150px;
+}
